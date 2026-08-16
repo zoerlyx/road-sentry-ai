@@ -1,0 +1,11 @@
+
+train: /content/road_preprocessed/train/images
+val: /content/road_preprocessed/valid/images
+test: /content/road_preprocessed/test/images
+
+nc: 3
+
+names:
+  0: pothole
+  1: crack
+  2: manhole
